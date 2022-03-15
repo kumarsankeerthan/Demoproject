@@ -1,6 +1,10 @@
 Hello,
 This is a Demo project
+<<<<<<< HEAD
 My name is devloper1
+=======
+My name is devloper2
+>>>>>>> devloper1
 I am from KA
 Hello-world
 My choices music
